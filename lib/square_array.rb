@@ -6,6 +6,6 @@ new_numbers = []
 
 while array[counter] do
     new_numbers.push(array[index] ** 2)
+    counter += 1
   end
-new_numbers
 end
